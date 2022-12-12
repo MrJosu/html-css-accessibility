@@ -2,7 +2,7 @@
 <b>This Repo is created for Module 1 challenge</b>
 
 ## Description
-This repo contains refactored <b>HTML</b> and <b>CSS</b> code to optimise webpage for the <b>Search engines</b> and to follow current accessibility standards
+This repo contains refactored <b>HTML</b> and <b>CSS</b> code to optimise webpage for the <b>Search engines</b> and to follow current <b>accessibility standards</b>
 
 <li> Semantic HTML elements can be found throughout the source code which is uploaded to GitHub
 
@@ -29,11 +29,12 @@ https://mrjosu.github.io/html-css-accessibility/
 Not required
 
 ## Credits
+
 N/A
 
 ## Tests
 
-Page tested in <b> Chrome and Edge </b>, also tested in <b> Google </b> and <b> Bing </b> search engines
+Webpage tested in <b> Google Chrome and Microsoft Edge </b> browsers 
 
 ## Licence
 
